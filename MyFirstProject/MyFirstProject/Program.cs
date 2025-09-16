@@ -12,7 +12,9 @@ namespace MyFirstProject
         {
             Console.WriteLine("Enter your name");
             string name = Console.ReadLine();
-            Console.WriteLine("Hello ",name);
+            Console.WriteLine("Enter your lastname");
+            string lastname= Console.ReadLine();
+            Console.WriteLine("Hello ",name," ",lastname);
             Console.WriteLine();
         }
     }
