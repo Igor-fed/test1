@@ -1,1 +1,2 @@
 для лабы
+for labaratories
